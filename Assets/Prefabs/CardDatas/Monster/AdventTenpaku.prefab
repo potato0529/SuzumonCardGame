@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7908765607424549108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -436.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -251.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1345165088772979284, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2235580637188254760, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: invokeTiming
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473296510198565779, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: effectType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473296510198565779, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: mainValue.fixedValue
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935462012588931179, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: rank
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935462012588931179, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7fc91530c399aec449c0ee016d4c6554, type: 3}
+    - target: {fileID: 6935462012588931179, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: cardName
+      value: "\u964D\u81E8\u3059\u308B\u5929\u767D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935462012588931179, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: attribute
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935462012588931179, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: effectText
+      value: "\u964D\u81E83\n\u7834\u58CA\u3055\u308C\u305F\u6642\u30E9\u30A4\u30D5\u30923\u56DE\u5FA9\u3059\u308B"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6939577435378766167, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: adventNum
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8134788027712519978, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
+      propertyPath: m_Name
+      value: AdventTenpaku
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a7f5a5b8e4db85488f631770ba713aa, type: 3}
